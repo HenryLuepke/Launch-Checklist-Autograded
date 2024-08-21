@@ -1,4 +1,3 @@
-import formSubmission from './scriptHelper'
 
 window.addEventListener("load", function() {
 
